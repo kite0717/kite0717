@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! 
+I'm a first-year student at Gachon University.
+I don't have a specific area of interest in programming yet, but I plan to explore various fields and seek advice to find what I enjoy. 
+For now, my goal is to enjoy programming!
